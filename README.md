@@ -117,7 +117,7 @@ Verve_Pipeline_Master.xlsx
 
 ## Notes on the DHA article
 
-Jennifer's first email asked about DHA contracts. The DHA 2027 article exists at:
+The DHA 2027 article exists at:
 https://orangeslices.ai/three-dozen-dha-expiring-tasks-expected-to-draw-a-crowd-in-2027/
 
 However, the DHA contract list is behind the OrangeSlices Insider paywall (~$295/year).
